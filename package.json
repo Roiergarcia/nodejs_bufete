@@ -6,7 +6,7 @@
     "npm": "6.4.1"
   },
   "description": "This example is so cool.",
-  "main": "index.js",
+  "start": "node server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
