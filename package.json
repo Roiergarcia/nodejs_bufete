@@ -1,24 +1,15 @@
 {
   "name": "nodejs_bufete",
   "version": "1.0.0",
-  "description": "",
+  "description": "This example is so cool.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Roiergarcia/nodejs_bufete.git"
-  },
+  "keywords": [
+    "",
+    ""
+  ],
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Roiergarcia/nodejs_bufete/issues"
-  },
-  "homepage": "https://github.com/Roiergarcia/nodejs_bufete#readme",
-  "dependencies": {
-    "body-parser": "^1.18.3",
-    "express": "^4.16.4",
-    "nodemon": "^1.18.4"
-  }
+  "license": ""
 }
